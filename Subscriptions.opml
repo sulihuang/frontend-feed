@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<title>Subscriptions - 藏精阁</title>
+	</head>
+	<body>
+		<outline text="Great" title="Great">
+			<outline htmlUrl="https://24ways.org/" title="24 ways" xmlUrl="http://feeds.feedburner.com/24ways" type="rss" text="24 ways"/>
+			<outline htmlUrl="http://alistapart.com" title="A List Apart: The Full Feed" xmlUrl="http://feeds.feedburner.com/alistapart/main" type="rss" text="A List Apart: The Full Feed"/>
+			<outline htmlUrl="http://allyoucanleet.com/" title="ALL YOU CAN 1337" xmlUrl="http://allyoucanleet.com/rss" type="rss" text="ALL YOU CAN 1337"/>
+			<outline htmlUrl="http://badassjs.com/" title="Badass JavaScript" xmlUrl="http://rss.badassjs.com/" type="rss" text="Badass JavaScript"/>
+			<outline htmlUrl="https://benfrain.com" title="Ben Frain" xmlUrl="https://benfrain.com/feed/" type="rss" text="Ben Frain"/>
+			<outline htmlUrl="http://tympanus.net/codrops" title="Collective – Codrops" xmlUrl="http://tympanus.net/codrops/collective/feed/" type="rss" text="Collective – Codrops"/>
+			<outline htmlUrl="http://www.cssdrive.com/index.php/news/item/" title="CSS Drive News" xmlUrl="http://www.cssdrive.com/index.php/news/rss_2.0" type="rss" text="CSS Drive News"/>
+			<outline htmlUrl="http://csswizardry.com/" title="CSS Wizardry" xmlUrl="http://feeds.feedburner.com/csswizardrycom" type="rss" text="CSS Wizardry"/>
+			<outline htmlUrl="http://cssdeck.com" title="CSSDeck" xmlUrl="http://feeds.feedburner.com/cssdeck" type="rss" text="CSSDeck"/>
+			<outline htmlUrl="http://csskarma.com/blog" title="csskarma" xmlUrl="http://csskarma.com/blog/feed/" type="rss" text="csskarma"/>
+			<outline htmlUrl="http://cssmojo.com" title="cssmojo" xmlUrl="http://www.cssmojo.com/rss.xml" type="rss" text="cssmojo"/>
+			<outline htmlUrl="https://designshack.net" title="Design Shack" xmlUrl="http://feedpress.me/designshack" type="rss" text="Design Shack"/>
+			<outline htmlUrl="http://www.echojs.com" title="Echo JS" xmlUrl="http://www.echojs.com/rss" type="rss" text="Echo JS"/>
+			<outline htmlUrl="https://egghead.io/lessons" title="egghead.io - Bite-sized Web Development Video Tutorials &amp; Training" xmlUrl="https://egghead.io/feed" type="rss" text="egghead.io - Bite-sized Web Development Video Tutorials &amp; Training"/>
+			<outline htmlUrl="https://tutorials.tutsplus.com" title="Envato Tuts+ Tutorials" xmlUrl="https://tutorials.tutsplus.com/posts.atom" type="rss" text="Envato Tuts+ Tutorials"/>
+			<outline htmlUrl="https://webdesign.tutsplus.com" title="Envato Tuts+ Web Design" xmlUrl="https://webdesign.tutsplus.com/posts.atom" type="rss" text="Envato Tuts+ Web Design"/>
+			<outline htmlUrl="http://heydesigner.com" title="HeyDesigner" xmlUrl="http://feedpress.me/heydesigner" type="rss" text="HeyDesigner"/>
+			<outline htmlUrl="http://htmlcssjavascript.com" title="HTML + CSS + JavaScript" xmlUrl="http://feeds.feedburner.com/HtmlCssJavascript" type="rss" text="HTML + CSS + JavaScript"/>
+			<outline htmlUrl="https://www.sitepoint.com" title="JavaScript – SitePoint" xmlUrl="https://www.sitepoint.com/javascript/feed/" type="rss" text="JavaScript – SitePoint"/>
+			<outline htmlUrl="https://reactjsnews.com/" title="ReactJS News" xmlUrl="https://reactjsnews.com/feed.xml" type="rss" text="ReactJS News"/>
+			<outline htmlUrl="https://www.thecssninja.com" title="Ryan Seddon" xmlUrl="http://feeds.feedburner.com/TheCSSNinja" type="rss" text="Ryan Seddon"/>
+			<outline htmlUrl="http://tutorialzine.com" title="Tutorialzine" xmlUrl="http://tutorialzine.com/feed/" type="rss" text="Tutorialzine"/>
+			<outline htmlUrl="http://www.webperformancetoday.com" title="Web Performance Today" xmlUrl="http://www.webperformancetoday.com/feed/" type="rss" text="Web Performance Today"/>
+			<outline htmlUrl="http://www.webdesignerdepot.com" title="Webdesigner Depot" xmlUrl="http://feeds.feedburner.com/webdesignerdepot" type="rss" text="Webdesigner Depot"/>
+		</outline>
+		<outline text="Must" title="Must">
+			<outline htmlUrl="http://alistapart.com" title="A List Apart: The Abridged Feed" xmlUrl="http://feeds.feedburner.com/alistapart/abridged" type="rss" text="A List Apart: The Abridged Feed"/>
+			<outline htmlUrl="http://tympanus.net/codrops" title="Codrops" xmlUrl="http://tympanus.net/codrops/feed/" type="rss" text="Codrops"/>
+			<outline htmlUrl="https://codyhouse.co" title="CodyHouse » Gems" xmlUrl="http://feeds.feedburner.com/codyhouse/feeds" type="rss" text="CodyHouse » Gems"/>
+			<outline htmlUrl="https://css-tricks.com" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" type="rss" text="CSS-Tricks"/>
+			<outline htmlUrl="https://code.tutsplus.com" title="Envato Tuts+ Code" xmlUrl="https://code.tutsplus.com/posts.atom" type="rss" text="Envato Tuts+ Code"/>
+			<outline htmlUrl="https://www.sitepoint.com" title="HTML &amp; CSS – SitePoint" xmlUrl="https://www.sitepoint.com/html-css/feed/" type="rss" text="HTML &amp; CSS – SitePoint"/>
+			<outline htmlUrl="http://pipes.yahoo.com/pipes/pipe.info?_id=647030be6aceb6d005c3775a1c19401c" title="HTML5Rocks" xmlUrl="http://feeds.feedburner.com/html5rocks" type="rss" text="HTML5Rocks"/>
+			<outline htmlUrl="https://webplatformdaily.org/" title="Open Web Platform Daily Digest" xmlUrl="http://feeds.feedburner.com/OpenWebPlatformDailyDigest" type="rss" text="Open Web Platform Daily Digest"/>
+			<outline htmlUrl="https://scotch.io" title="Scotch.io" xmlUrl="https://feeds.feedblitz.com/scotch_io" type="rss" text="Scotch.io"/>
+			<outline htmlUrl="https://www.sitepoint.com" title="SitePoint" xmlUrl="https://www.sitepoint.com/feed/" type="rss" text="SitePoint"/>
+			<outline htmlUrl="https://www.smashingmagazine.com" title="Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed/" type="rss" text="Smashing Magazine"/>
+		</outline>
+		<outline text="Q&amp;A" title="Q&amp;A">
+			<outline htmlUrl="https://www.reddit.com/r/css" title="Cascading Style Sheets" xmlUrl="https://www.reddit.com/r/css.rss" type="rss" text="Cascading Style Sheets"/>
+			<outline htmlUrl="https://css-tricks.com/forums/feed" title="CSS-Tricks » All Posts" xmlUrl="https://css-tricks.com/forums/feed" type="rss" text="CSS-Tricks » All Posts"/>
+			<outline htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=css&amp;sort=newest" title="Newest questions tagged css - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=css&amp;sort=newest" type="rss" text="Newest questions tagged css - Stack Overflow"/>
+			<outline htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=javascript&amp;sort=newest" title="Newest questions tagged javascript - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=javascript&amp;sort=newest" type="rss" text="Newest questions tagged javascript - Stack Overflow"/>
+			<outline htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=jquery&amp;sort=newest" title="Newest questions tagged jquery - Stack Overflow" xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=jquery&amp;sort=newest" type="rss" text="Newest questions tagged jquery - Stack Overflow"/>
+			<outline htmlUrl="https://www.sitepoint.com/community" title="The SitePoint Forums - Latest posts" xmlUrl="https://www.sitepoint.com/community/posts.rss" type="rss" text="The SitePoint Forums - Latest posts"/>
+			<outline htmlUrl="https://www.sitepoint.com/community/latest" title="The SitePoint Forums - Latest topics" xmlUrl="https://www.sitepoint.com/community/latest.rss" type="rss" text="The SitePoint Forums - Latest topics"/>
+		</outline>
+		<outline text="Weekly" title="Weekly">
+			<outline htmlUrl="http://adripofjavascript.com/" title="A Drip of JavaScript" xmlUrl="http://adripofjavascript.com/atom.xml" type="rss" text="A Drip of JavaScript"/>
+			<outline htmlUrl="http://css-weekly.com" title="CSS WeeklyCSS Weekly" xmlUrl="http://feeds.feedburner.com/CSS-Weekly" type="rss" text="CSS WeeklyCSS Weekly"/>
+			<outline htmlUrl="http://dailyjs.com/" title="DailyJS" xmlUrl="http://feeds.feedburner.com/dailyjs" type="rss" text="DailyJS"/>
+			<outline htmlUrl="http://html5weekly.com/" title="FrontEnd Focus" xmlUrl="http://frontendfocus.co/rss/1e4m5lnd" type="rss" text="FrontEnd Focus"/>
+			<outline htmlUrl="http://javascriptweekly.com/" title="JavaScript Weekly" xmlUrl="http://javascriptweekly.com/rss/161kj581" type="rss" text="JavaScript Weekly"/>
+			<outline htmlUrl="http://mobilewebweekly.co/" title="Mobile Web Weekly" xmlUrl="http://mobilewebweekly.co/rss/1o7ebm00" type="rss" text="Mobile Web Weekly"/>
+			<outline htmlUrl="http://nodeweekly.com/" title="Node Weekly" xmlUrl="http://nodeweekly.com/rss/1665a58h" type="rss" text="Node Weekly"/>
+			<outline htmlUrl="http://responsivedesignweekly.com" title="Responsive Design Weekly" xmlUrl="http://responsivedesignweekly.com/feed/" type="rss" text="Responsive Design Weekly"/>
+			<outline htmlUrl="http://sidebar.io/" title="Sidebar" xmlUrl="http://sidebar.io/feed.xml" type="rss" text="Sidebar"/>
+			<outline htmlUrl="https://web-design-weekly.com" title="Web Design Weekly" xmlUrl="http://web-design-weekly.com/feed/" type="rss" text="Web Design Weekly"/>
+			<outline htmlUrl="https://wdrl.info/archive" title="Web Development Reading List (WDRL) Feed" xmlUrl="https://wdrl.info/feed" type="rss" text="Web Development Reading List (WDRL) Feed"/>
+			<outline htmlUrl="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=104d6bcc2d" title="Web Tools Weekly Archive Feed" xmlUrl="http://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=104d6bcc2d" type="rss" text="Web Tools Weekly Archive Feed"/>
+		</outline>
+		<outline text="中文" title="中文">
+			<outline htmlUrl="http://imweb.io" title="IMWeb：web牛人社区" xmlUrl="http://imweb.io/rss" type="rss" text="IMWeb：web牛人社区"/>
+			<outline htmlUrl="https://segmentfault.com/blogs" title="SegmentFault 最新的文章" xmlUrl="https://segmentfault.com/articles/feeds" type="rss" text="SegmentFault 最新的文章"/>
+			<outline htmlUrl="http://qianduan.guru/" title="前端外刊评论" xmlUrl="http://qianduan.guru/feed.xml" type="rss" text="前端外刊评论"/>
+			<outline htmlUrl="http://feed.cnblogs.com/blog/u/40553/rss" title="博客园_梦想天空" xmlUrl="http://feed.cnblogs.com/blog/u/40553/rss" type="rss" text="博客园_梦想天空"/>
+			<outline htmlUrl="http://f2e.souche.com/blog/" title="大搜车前端团队博客" xmlUrl="http://f2e.souche.com/blog/rss/" type="rss" text="大搜车前端团队博客"/>
+			<outline htmlUrl="http://75team.com/weekly/" title="奇舞周刊" xmlUrl="http://75team.com/weekly/rss.php" type="rss" text="奇舞周刊"/>
+			<outline htmlUrl="http://gold.xitu.io" title="掘金" xmlUrl="http://gold.xitu.io/rss" type="rss" text="掘金"/>
+		</outline>
+	</body>
+</opml>
